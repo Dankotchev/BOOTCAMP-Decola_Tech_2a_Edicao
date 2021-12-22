@@ -407,6 +407,7 @@ dkms.conf
 *.files.json
 
 ### VisualStudioCode ###
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
