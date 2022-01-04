@@ -13,9 +13,9 @@ _05 / 19 Concluídos_
 - [x] Introdução ao Git e ao GitHub
 - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 - [x] IDE Instalação e Configuração (Visual Studio)
-- [ ] Introdução ao C# e .NET
-- [ ] Primeiros passos com .NET
-- [ ] Programando com Orientação a Objetos com C#
+- [x] Introdução ao C# e .NET
+- [x] Primeiros passos com .NET
+- [x] Programando com Orientação a Objetos com C#
 - [ ] Construtores, Propriedades, Delegates e Eventos em .NET
 - [ ] Criando o ambiente de desenvolvimento
 - [ ] Fundamentos de Coleção e LINQ com .NET
