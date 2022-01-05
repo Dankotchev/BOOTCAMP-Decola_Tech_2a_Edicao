@@ -16,7 +16,7 @@ _05 / 19 Concluídos_
 - [x] Introdução ao C# e .NET
 - [x] Primeiros passos com .NET
 - [x] Programando com Orientação a Objetos com C#
-- [ ] Construtores, Propriedades, Delegates e Eventos em .NET
+- [x] Construtores, Propriedades, Delegates e Eventos em .NET
 - [ ] Criando o ambiente de desenvolvimento
 - [ ] Fundamentos de Coleção e LINQ com .NET
 - [ ] Introdução a microsserviços com .NET
