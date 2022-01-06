@@ -5,7 +5,7 @@ Repositório da jornada do [Bootcamp: Decola Tech 2a edição](https://web.dio.m
 ---
 ## Cursos Concluídos
 
-_05 / 19 Concluídos_
+_11 / 19 Concluídos_
 
 - [x] Boas Vindas ao Bootcamp
 - [x] Lógica de Programação Essencial
@@ -17,7 +17,7 @@ _05 / 19 Concluídos_
 - [x] Primeiros passos com .NET
 - [x] Programando com Orientação a Objetos com C#
 - [x] Construtores, Propriedades, Delegates e Eventos em .NET
-- [ ] Criando o ambiente de desenvolvimento
+- [x] Criando o ambiente de desenvolvimento
 - [ ] Fundamentos de Coleção e LINQ com .NET
 - [ ] Introdução a microsserviços com .NET
 - [ ] Introdução a Design Patterns com .NET
