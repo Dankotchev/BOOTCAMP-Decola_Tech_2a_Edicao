@@ -7,9 +7,9 @@ namespace Fundamentos_de_Colecoes_e_LINQ
         static void Main_(string[] args)
         {
             // Aula de Listas
-            List<string> estados = new List<string>(){"Mato Grosso do Sul", "Mato Grosso", "Goiás"};
+            List<string> estados = new List<string>() { "Mato Grosso do Sul", "Mato Grosso", "Goiás" };
             OperacoesLista opList = new OperacoesLista();
-            string[] estadosArray = new string[3] {"Paraná", "Santa Catarina", "Rio Grande do Sul"};
+            string[] estadosArray = new string[3] { "Paraná", "Santa Catarina", "Rio Grande do Sul" };
             estados.Add("São Paulo");
             estados.Add("Minas Gerais");
             estados.Add("Rio de Janeiro");
@@ -29,6 +29,6 @@ namespace Fundamentos_de_Colecoes_e_LINQ
             opList.AdicionarPorIndice(estados, 0, "Distrito Federal");
             opList.ImprimirListaString(estados);
 
-        } 
+        }
     }
 }

@@ -2,7 +2,7 @@ namespace Fundamentos_de_Colecoes_e_LINQ.Models
 {
     public class OperacoesLista
     {
-        public void ImprimirListaString (List<string> lista)
+        public void ImprimirListaString(List<string> lista)
         {
             Console.WriteLine($"Quantidade de Elementos na listas: {lista.Count}");
             for (int i = 0; i < lista.Count; i++)
@@ -12,7 +12,7 @@ namespace Fundamentos_de_Colecoes_e_LINQ.Models
             Console.WriteLine();
         }
 
-        public void RemoverElemento (List<string> lista, string elemento)
+        public void RemoverElemento(List<string> lista, string elemento)
         {
             Console.WriteLine($"Removendo um elemento da lista passando o elemento, neste caso {elemento}");
             lista.Remove(elemento);
@@ -24,13 +24,13 @@ namespace Fundamentos_de_Colecoes_e_LINQ.Models
             lista.RemoveAt(indice);
         }
 
-        public void AdicionarPartirString (List<string> lista, string[] array)
+        public void AdicionarPartirString(List<string> lista, string[] array)
         {
             Console.WriteLine("Adicionando elementos do Array na lista.");
             lista.AddRange(array);
         }
 
-        public void AdicionarPorIndice (List<string> lista, int indice, string elemento)
+        public void AdicionarPorIndice(List<string> lista, int indice, string elemento)
         {
             Console.WriteLine($"Adiciona um elemento ({elemento}) em uma determinada posição ({indice}) dentro da lista.");
             lista.Insert(indice, elemento);

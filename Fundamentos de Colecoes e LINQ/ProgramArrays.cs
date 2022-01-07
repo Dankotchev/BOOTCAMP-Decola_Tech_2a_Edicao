@@ -8,10 +8,10 @@ namespace Fundamentos_de_Colecoes_e_LINQ
             // Aula de Arrays
             OperacoesArray op = new OperacoesArray();
             int[] vetor = new int[25];// { 15, 3, 7, 36, 11, 9, 25, 14, 10, 17 };
-            int[] copiaVetor = new int [50];
+            int[] copiaVetor = new int[50];
             Random randomico = new Random();
             int procurado = randomico.Next(100); // Gerar un numero aleatório para buscar dentro do vetor
-            
+
             op.PreencherVetor(ref vetor);
             Console.WriteLine("Vetor Original:");
             op.ImprimirArray(vetor);
@@ -116,7 +116,7 @@ namespace Fundamentos_de_Colecoes_e_LINQ
             {
                 for (int j = 0; j < matriz.GetLength(1); j++)
                 {
-                    Console.Write($"{matriz[i,j]} ");
+                    Console.Write($"{matriz[i, j]} ");
                 }
                 Console.Write("\n");
             }
