@@ -4,7 +4,7 @@ namespace Fundamentos_de_Colecoes_e_LINQ
 {
     class Program_Dicionarios
     {
-        static void Main(string[] args)
+        static void Main_(string[] args)
         {
             /// Aula Coleções Especificas
             // Dicionários
