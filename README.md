@@ -5,7 +5,7 @@ Repositório da jornada do [Bootcamp: Decola Tech 2a edição](https://web.dio.m
 ---
 ## Cursos Concluídos
 
-_12 / 19 Concluídos_
+_14 / 19 Concluídos_
 
 - [x] 1. Boas Vindas ao Bootcamp
 - [x] 2. Lógica de Programação Essencial
@@ -19,8 +19,8 @@ _12 / 19 Concluídos_
 - [x] 10. Construtores, Propriedades, Delegates e Eventos em .NET
 - [x] 11. Criando o ambiente de desenvolvimento
 - [x] 12. Fundamentos de Coleção e LINQ com .NET
-- [ ] 13. Introdução a microsserviços com .NET
-- [ ] 14. Introdução a Design Patterns com .NET
+- [x] 13. Introdução a microsserviços com .NET
+- [x] 14. Introdução a Design Patterns com .NET
 - [ ] 15. Programando em C#
 - [ ] 16. Criando um App simples de cadastro de série em .NET
 - [ ] 17. SQL SEVER - Criando suas primeiras consultas
@@ -31,7 +31,7 @@ _12 / 19 Concluídos_
 
 - [x] 20/12/2021     #1 Aula Inaugural
 - [x] 07/12/2021     #2 Como resolver o desafio de código
-- [ ] 14/12/2021     #3 Tire suas dúvidas sobre a programação orientada a objetos com exemplos práticos
+- [x] 14/12/2021     #3 Tire suas dúvidas sobre a programação orientada a objetos com exemplos práticos
 - [x] 16/12/2021     #4 Inclusão e Diversidade na Avanade
 - [ ] 05/01/2022     #5 Testes de Software em .NET. Exemplos de utilização com experts da AVANADE
 - [ ]  08/09/2021    #6 Criando uma API REST Simples com .NET Core
