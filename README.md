@@ -23,8 +23,8 @@ _15 / 19 Concluídos_
 - [x] 14. Introdução a Design Patterns com .NET
 - [x] 15. Programando em C#
 - [ ] 16. Criando um App simples de cadastro de série em .NET
-- [ ] 17. SQL SEVER - Criando suas primeiras consultas
-- [ ] 18. Modelando um banco de dados na prática com SQL SERVER
+- [x] 17. SQL SEVER - Criando suas primeiras consultas
+- [x] 18. Modelando um banco de dados na prática com SQL SERVER
 - [ ] 19. SQL SEVER: Boas práticas em bancos relacionais
 
 ## Mentorias Participadas
