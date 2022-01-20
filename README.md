@@ -3,9 +3,11 @@
 Repositório da jornada do [Bootcamp: Decola Tech 2a edição](https://web.dio.me/track/decola-tech-2a-edicao?tab=path) da DIO;
 
 ---
+![img](https://hermes.digitalinnovation.one/certificates/cover/CC129FD9.jpg)
+
 ## Cursos Concluídos
 
-_15 / 19 Concluídos_
+_18 / 19 Concluídos_
 
 - [x] 1. Boas Vindas ao Bootcamp
 - [x] 2. Lógica de Programação Essencial
@@ -22,10 +24,10 @@ _15 / 19 Concluídos_
 - [x] 13. Introdução a microsserviços com .NET
 - [x] 14. Introdução a Design Patterns com .NET
 - [x] 15. Programando em C#
-- [ ] 16. Criando um App simples de cadastro de série em .NET
+- [x] 16. [Criando um App simples de cadastro de série em .NET](https://github.com/Dankotchev/BOOTCAMP-DecolaTech-ProjetoAppCadastro)
 - [x] 17. SQL SEVER - Criando suas primeiras consultas
 - [x] 18. Modelando um banco de dados na prática com SQL SERVER
-- [ ] 19. SQL SEVER: Boas práticas em bancos relacionais
+- [x] 19. SQL SEVER: Boas práticas em bancos relacionais
 
 ## Mentorias Participadas
 
@@ -34,6 +36,5 @@ _15 / 19 Concluídos_
 - [x] 14/12/2021     #3 Tire suas dúvidas sobre a programação orientada a objetos com exemplos práticos
 - [x] 16/12/2021     #4 Inclusão e Diversidade na Avanade
 - [x] 05/01/2022     #5 Testes de Software em .NET. Exemplos de utilização com experts da AVANADE
-- [ ] 08/09/2021     #6 Criando uma API REST Simples com .NET Core
-- [ ] 07/01/2022     #7 Finalizando o Decola Tech. A um passo de ser sangue laranja!
-
+- [x] 08/09/2021     #6 Criando uma API REST Simples com .NET Core
+- [x] 07/01/2022     #7 Finalizando o Decola Tech. A um passo de ser sangue laranja!
